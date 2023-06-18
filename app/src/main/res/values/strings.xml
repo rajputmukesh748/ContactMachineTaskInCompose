@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactMachineTask</string>
+    <string name="no_contacts_found">No Contacts Found</string>
+    <string name="my_contacts">My Contacts</string>
+    <string name="contact_detail">Contact Detail</string>
+    <string name="messages">Messages</string>
+    <string name="no_data_found">No Data Found</string>
+</resources>
