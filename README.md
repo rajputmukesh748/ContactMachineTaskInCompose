@@ -1,11 +1,7 @@
 #Android App Documentation
 
-<h2>Introduction</h2>
-Provide a brief overview of the app, its purpose, and its key features.
-
 
 <h2>Technologies Used</h2>
-List the technologies you have used to develop the app. Include the following:
 
 1. Jetpack Compose
 2. Clean Architecture with Repository Design Pattern
@@ -20,7 +16,6 @@ List the technologies you have used to develop the app. Include the following:
 
 
 <h2>App Architecture</h2>
-Explain the architecture of your app, providing an overview of each layer and its responsibilities. Include the following:
 
 1. AppController (For define controller class and initialize HILT.)
 2. UseCases (Use for call api or fetching data from DB.)
@@ -35,7 +30,6 @@ Explain the architecture of your app, providing an overview of each layer and it
 
 
 <h2>Benefits</h2>
-Highlight the benefits and advantages of the technologies and architecture choices you have made. Include the following:
 
 1. Clean Architecture is now mostly use for create app instead of MVVM. Because its separate our network and business logic.
 2. Room:- For store data data like Contacts or Messages.
