@@ -2,7 +2,7 @@
 
 
 <h2>IDE & Device</h2>
-1. IDE Uses :- Android Studio Hedgehog | 2023.1.1 Canary 8
+1. IDE Uses :- Android Studio Hedgehog | 2023.1.1 Canary 8 
 2. Android Device For Testing:- Android 13, Android 12 and Android 10
 
 <h2>Technologies Used</h2>
