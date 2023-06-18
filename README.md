@@ -1,6 +1,10 @@
 #Android App Documentation
 
 
+<h2>IDE & Device</h2>
+1. IDE Uses :- Android Studio Hedgehog | 2023.1.1 Canary 8
+2. Android Device For Testing:- Android 13, Android 12 and Android 10
+
 <h2>Technologies Used</h2>
 
 1. Jetpack Compose
@@ -12,7 +16,7 @@
 7. Coroutines
 8. Kotlin Gradle (.kts)
 9. Version Catalog (.toml)
-10. Vonage
+10. Vonage (SMS Service)
 
 
 <h2>App Architecture</h2>
