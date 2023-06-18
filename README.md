@@ -1,11 +1,10 @@
 #Android App Documentation
 
-
-<h3>Introduction</h3>
+<h2>Introduction</h2>
 Provide a brief overview of the app, its purpose, and its key features.
 
 
-<h3>Technologies Used</h3>
+<h2>Technologies Used</h2>
 List the technologies you have used to develop the app. Include the following:
 
 1. Jetpack Compose: Explain how you have used Jetpack Compose for creating the UI and its advantages over traditional Android UI development.
@@ -20,7 +19,7 @@ List the technologies you have used to develop the app. Include the following:
 10. Vonage: Describe how you have integrated Vonage for sending SMS and explain any relevant details related to the integration.
 
 
-<h3>App Architecture</h3>
+<h2>App Architecture</h2>
 Explain the architecture of your app, providing an overview of each layer and its responsibilities. Include the following:
 
 1. AppController: Describe the purpose of the AppController class and how it initializes the HILT dependency injection framework.
@@ -35,7 +34,7 @@ Explain the architecture of your app, providing an overview of each layer and it
 10. Vonage: Explain any specific implementation details related to the integration of Vonage with Retrofit for sending SMS.
 
 
-<h3>Benefits</h3>
+<h2>Benefits</h2>
 Highlight the benefits and advantages of the technologies and architecture choices you have made. Include the following:
 
 1. Clean Architecture: Explain how using Clean Architecture separates network and business logic, leading to easier maintainability and testability.
@@ -45,7 +44,4 @@ Highlight the benefits and advantages of the technologies and architecture choic
 5. Jetpack Compose: Explain the advantages of using Jetpack Compose for creating a declarative UI and any specific features you have utilized in your app.
 
 
-<h3>Conclusion</h3>
-Wrap up the documentation by summarizing the key points and mentioning any additional information or resources that may be helpful for developers working with your app.
-
-Remember to provide clear and concise explanations, include relevant code snippets or diagrams where necessary, and make the documentation easily readable for other developers.
+<h2>Thank You.</h2>
